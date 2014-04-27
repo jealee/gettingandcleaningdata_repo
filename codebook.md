@@ -2,7 +2,7 @@ CodeBook.md
 ==================
 
 ## Data 
-The data for this analysis was collected from accelerometers from the Samsung Galaxy S II smartphone. Thirty volunteers performed six different physical activities with the smartphone attached to their waist. A training data set was obtained from 70% of the volunteers, while the test data was compared against 30% of the data. The measurements in this data set include various signals, such as the triaxial acceleration, the estimated body acceleration, and the triangular angular velocity. A full description is available from the site where the data was obtained: 
+The data for this analysis was collected from accelerometers from the Samsung Galaxy S II smartphone. Thirty volunteers performed six different physical activities with the smartphone attached to their waist. A training data set was obtained from 70% of the volunteers, while the test data was compared against 30% of the volunteers. The measurements in this data set include various signals, such as the triaxial acceleration, the estimated body acceleration, and the triangular angular velocity. A full description is available from the site where the data was obtained: 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
